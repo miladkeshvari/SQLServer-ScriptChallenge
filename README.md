@@ -5,7 +5,7 @@
 
 این **مخزن** بروز رسانی خواهد شد
 
-* * [قرار دادن مقادیر یک ستون بصورت بازگشتی | Merge the values of a column in a recursive manner](http://test.com)
+* * [قرار دادن مقادیر یک ستون بصورت بازگشتی | Merge the values of a column in a recursive manner](https://github.com/miladkeshvari/SQLServer-ScriptChallenge/tree/master/CTE%20Recursive%20And%20For-XML)
 
 
 </div>
