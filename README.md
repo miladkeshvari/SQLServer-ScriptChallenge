@@ -5,6 +5,6 @@
 ### Welcome to the challenge of admin scripts and database development at SQL Server
 این **مخزن** بروز رسانی خواهد شد
 
-**[ادغام مقادیر یک ستون بصورت بازگشتی | Merge the values of a column in a recursive manner](https://github.com/miladkeshvari/SQLServer-ScriptChallenge/tree/master/CTE%20Recursive%20And%20For-XML)
++[ادغام مقادیر یک ستون بصورت بازگشتی | Merge the values of a column in a recursive manner](https://github.com/miladkeshvari/SQLServer-ScriptChallenge/tree/master/CTE%20Recursive%20And%20For-XML)
 
 </div>
