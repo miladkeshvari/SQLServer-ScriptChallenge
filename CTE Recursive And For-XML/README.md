@@ -18,7 +18,7 @@
 
 **دریافت بانک اطلاعاتی مربوطه**
 <p>
-+[Download | >> ](https://github.com/miladkeshvari/DataBaseSample/tree/master/DataBaseMergContent)
++[Download](https://github.com/miladkeshvari/DataBaseSample/tree/master/DataBaseMergContent)
 
 </p>
 
