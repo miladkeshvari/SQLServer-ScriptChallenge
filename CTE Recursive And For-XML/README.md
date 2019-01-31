@@ -13,6 +13,8 @@
 **مشاهده خروجی**
 <p>
 
+![تصویر خروجی](https://github.com/miladkeshvari/SQLServer-ScriptChallenge/blob/master/CTE%20Recursive%20And%20For-XML/img/outputImg.png)
+
 </p>
 
 **دریافت بانک اطلاعاتی مربوطه**
