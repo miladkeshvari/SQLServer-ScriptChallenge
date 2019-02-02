@@ -10,12 +10,13 @@
 
 </p>
 <img src="https://github.com/miladkeshvari/SQLServer-ScriptChallenge/blob/master/CTE%20Recursive%20And%20For-XML/img/TableData.png" alt="تصویر اصلی" height="399" width="742">
-
+---
 **مشاهده خروجی**
 <p>
 قرار است خروجی من به شکل زیر باشد. تعداد 30 متری های من را در تعداد ضرب و مقادیر غیر 30 متری جمع شود
 <img src="https://github.com/miladkeshvari/SQLServer-ScriptChallenge/blob/master/CTE%20Recursive%20And%20For-XML/img/outputImg.png" alt="تصویر نهایی" height="138" width="438">
 
+---
 </p>
 
 **دریافت بانک اطلاعاتی مربوطه**
