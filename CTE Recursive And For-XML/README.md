@@ -9,7 +9,7 @@
 من تصمیم دارم که مقادیرستون metr را طبق الگو و بر اساس گروه بندی مشخصی بصورت رشته ای از کاراکترها در اختیار داشته باشم
 
 </p>
-![Image of Yaktocat](https://github.com/miladkeshvari/SQLServer-ScriptChallenge/blob/master/CTE%20Recursive%20And%20For-XML/img/TableData.png)
+<img src="https://github.com/miladkeshvari/SQLServer-ScriptChallenge/blob/master/CTE%20Recursive%20And%20For-XML/img/TableData.png" alt="تصویر اصلی" height="400" width="400">
 
 **مشاهده خروجی**
 <p>
