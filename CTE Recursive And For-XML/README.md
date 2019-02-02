@@ -12,8 +12,8 @@
 [](https://github.com/miladkeshvari/SQLServer-ScriptChallenge/blob/master/CTE%20Recursive%20And%20For-XML/img/TableData.png)
 ![تصویر داده های  اولیه](https://github.com/miladkeshvari/SQLServer-ScriptChallenge/blob/master/CTE%20Recursive%20And%20For-XML/img/TableData.png?raw=true)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
+![Image of Yaktocat](https://github.com/miladkeshvari/SQLServer-ScriptChallenge/blob/master/CTE%20Recursive%20And%20For-XML/img/TableData.png?raw=true)
+![Image of Yaktocat](https://github.com/miladkeshvari/SQLServer-ScriptChallenge/blob/master/CTE%20Recursive%20And%20For-XML/img/TableData.png)
 **مشاهده خروجی**
 <p>
 قرار است خروجی من به شکل زیر باشد. تعداد 30 متری های من را در تعداد ضرب و مقادیر غیر 30 متری جمع شود
